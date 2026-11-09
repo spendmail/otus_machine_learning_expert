@@ -1,0 +1,15 @@
+# Python 3.11
+# Bayesian modelling (PyMC 5 — successor of PyMC3, which does not support Python >= 3.10)
+arviz==0.23.4
+ipykernel==7.4.0
+jupyterlab==4.6.6
+matplotlib==3.11.2
+nbconvert==7.17.2
+nbformat==5.11.1
+notebook==7.6.5
+numpy==2.4.6
+pandas==3.1.1
+pymc==5.28.5
+pytensor==2.38.3
+scipy==1.17.1
+seaborn==0.13.2

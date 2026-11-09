@@ -1,0 +1,16 @@
+# Байесовское моделирование
+pymc==5.28.5
+pytensor==2.38.3
+arviz==0.23.4
+# Данные, ML, визуализация
+numpy==2.4.6
+pandas==3.1.1
+scipy==1.17.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+# Jupyter
+notebook==7.6.5
+jupyterlab==4.6.6
+ipykernel==7.4.0
+nbconvert==7.17.2
